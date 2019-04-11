@@ -1,0 +1,2 @@
+defmodule AbsintheCantare do
+end
